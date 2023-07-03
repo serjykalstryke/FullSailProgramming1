@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{01C65E61-5304-4569-A13F-C3AA1185157F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab 2/Submission.cs">
+    <Files>
+      <File FileName="Lab 2/Program.cs" />
+      <File FileName="Lab 2/Submission.cs" Line="84" Column="39" />
+      <File FileName="Lab 2/Test.cs" />
+      <File FileName="Lab 2/Utility.cs" />
+      <File FileName="Lab 2/App.config" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab 2" expanded="True">
+            <Node name="Lab 2" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Submission.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

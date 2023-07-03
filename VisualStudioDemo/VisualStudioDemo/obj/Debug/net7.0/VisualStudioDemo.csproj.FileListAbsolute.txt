@@ -1,0 +1,15 @@
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/bin/Debug/net7.0/VisualStudioDemo
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/bin/Debug/net7.0/VisualStudioDemo.deps.json
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/bin/Debug/net7.0/VisualStudioDemo.runtimeconfig.json
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/bin/Debug/net7.0/VisualStudioDemo.dll
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/bin/Debug/net7.0/VisualStudioDemo.pdb
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.csproj.AssemblyReference.cache
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.AssemblyInfoInputs.cache
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.AssemblyInfo.cs
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.csproj.CoreCompileInputs.cache
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.dll
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/refint/VisualStudioDemo.dll
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.pdb
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/VisualStudioDemo.genruntimeconfig.cache
+/Users/davidstinnett/Documents/Projects/FullSailProgramming1/VisualStudioDemo/VisualStudioDemo/obj/Debug/net7.0/ref/VisualStudioDemo.dll
